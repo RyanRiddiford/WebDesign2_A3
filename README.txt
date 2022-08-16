@@ -14,7 +14,8 @@ Setup Guide:
 1. Install and setup MAMP on your computer
 2. MAMP will run the website from c:\MAMP\htdocs, move the repo folder contents into that location
 3. Open MAMP and click on the "Start Servers" power button
-4. If facing difficulties, you can change where MAMP runs the website from
-5. From the MAMP window toolbar, click on MAMP->Preferences->Web server 
-6. From here, change the Document Root to my submission's repo folder
-7. If issues persist with changing the Document Root, here is another guide on how to change it: https://documentation-5.mamp.info/en/MAMP-Mac/Preferences/Web-Server/index.html
+4. When MAMP servers are running, visit localhost:80 in a web browser to view the website
+5. If facing difficulties, you can change where MAMP runs the website from
+6. From the MAMP window toolbar, click on MAMP->Preferences->Web server 
+7. From here, change the Document Root to my submission's repo folder
+8. If issues persist with changing the Document Root, here is another guide on how to change it: https://documentation-5.mamp.info/en/MAMP-Mac/Preferences/Web-Server/index.html
